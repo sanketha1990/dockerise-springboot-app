@@ -15,7 +15,7 @@ public class DockeriseSpringbootAppApplication {
 
 	@GetMapping("/message")
 	public String dockerizing() {
-		return "Welcome to dockerizig the application";
+		return "Welcome to code pipeline AWS service";
 	}
 
 }
